@@ -1,0 +1,16 @@
+.box{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    width: 600px;
+    height: 150px;
+    border: 1px solid grey;
+    border-radius:20px;
+    margin:20px;
+}
+
+.box-label{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
